@@ -1,2 +1,2 @@
-# Crush-Declaration
-This small project that includes Html, Css and JavaScript has the only function of making a declaration of love to your crush, the only thing it does is that when she positions her cursor on the "No" button she moves and just doesn't let her click.
+# Declaration to your crush
+This program works using three programming languages, it is not advanced programming at all, this project is only made in order to improve my logic and at the same time learn more about these three languages which are: HTML, CSS and JavaScript
